@@ -14,9 +14,13 @@ Using the initial Kickstarter dataset, provided by Louise, we should be able vis
 
 The first analysis was to create a pivot table to analyze success, failure and cancellations based on Louise's desire for Theaters.  To help narrow a starting point, we took the data over the course of many years, and summarized it by the twelve months to ascertain seasonality success.  Adding the filters, for other parent categories and years, if we desire to utilize for other projects.  The line graph, Theater_Outcomes_Based_on_Launch_Date, is a visual representation of the below pivot table.
 
+<img width="323" alt="Screen Shot 2021-12-18 at 12 09 21 PM" src="https://user-images.githubusercontent.com/91889241/146651491-d4ec2dd0-5a33-4bcb-bd3b-aae33b46c1a7.png">
+
 ### Analysis of Outcomes Based on Goals
 
 The second analysis is meant to refine this table to include the sub category plays and to see the optimum dollar amount for successful goals.  By breaking the funding goals into groups of $5k and applying that over the entire population of Theaters/Plays, we derived a percentage success, failure, and cancelled.  The Outcomes_vs_Goals.png line graph provides a visual information based on the following pivot table results.
+
+<img width="706" alt="Screen Shot 2021-12-18 at 12 09 45 PM" src="https://user-images.githubusercontent.com/91889241/146651503-5be84fb4-f095-4313-83b8-f2321ff5ed49.png">
 
 ### Challenges and Difficulties Encountered
 
