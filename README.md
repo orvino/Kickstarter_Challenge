@@ -32,8 +32,8 @@ There were no noted challenges while assimilating this data set.  However, poten
 
 - There are some limitations to this data set.  One being, data is only as good as its source.  We don't know how complete or honest people were when submitting this data to be compiled.  There is always room for error and misinformation.
 
-The data set itself, is relatively small overall and when factoring in country, the numbers get squeezed even more.  The less data may not reflect a true trend in the population and we did not apply any statistcal factors to adjust one way or the other.
+- The data set itself, is relatively small overall and when factoring in country, the numbers get squeezed even more.  The less data may not reflect a true trend in the population and we did not apply any statistcal factors to adjust one way or the other.
 
 - We could also enhance our visual presentation with stacked bar graphs to give a sense of each category into istelf amongst the other categories.
 
-We could also apply statistics to examine our standard deviation of the population and plot out a box graph to represent it.
+- We could also apply statistics to examine our standard deviation of the population and plot out a box graph to represent it.
